@@ -16,7 +16,8 @@ generate_rss = true
 website_title = "理论力学B_06"
 website_descr = "理论力学B_06"
 website_url   = "https://bplcn.github.io/theomech/"
-@def prepath = "theomech"
+
+prepath = "theomech"
 +++
 
 <!--
