@@ -1,11 +1,9 @@
-+++
-title = "绪论"
-hascode = true
-date = Date(2022, 8, 23)
-rss = "理论力学绪论内容"
+@def title = "绪论"
+@def hascode = true
+@def date = Date(2022, 8, 26)
+@def rss = "绪论"
 
-tags = ["syntax", "code"]
-+++
+@def tags = ["syntax", "code"]
 
 # 绪论
 ## 理论力学的研究对象及任务
