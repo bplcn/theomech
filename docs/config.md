@@ -11,7 +11,18 @@ The website_* must be defined for the RSS to work
 
 @def mintoclevel = 2
 
+<<<<<<< HEAD
 @def prepath = "theomech"
+=======
+# RSS (the website_{title, descr, url} must be defined to get RSS)
+generate_rss = true
+website_title = "理论力学B_06"
+website_descr = "理论力学B_06"
+website_url   = "https://bplcn.github.io/theomech/"
+
+prepath = "theomech"
++++
+>>>>>>> 62e82d94764731727d6d08ca266aedff8cc41429
 
 <!--
 Add here files or directories that should be ignored by Franklin, otherwise

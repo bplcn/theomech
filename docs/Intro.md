@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @def title = "绪论"
 @def hascode = true
 @def date = Date(2022, 8, 26)
@@ -5,6 +6,8 @@
 
 @def tags = ["syntax", "code"]
 
+=======
+>>>>>>> 62e82d94764731727d6d08ca266aedff8cc41429
 # 绪论
 ## 理论力学的研究对象及任务
 _理论力学_是研究物体**机械运动**一般规律的一门科学。 

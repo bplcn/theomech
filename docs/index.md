@@ -1,5 +1,5 @@
-@def title = "理论力学B_06"
-@def tags = ["syntax", "code"]
+<!-- @def title = "理论力学B_06"
+@def tags = ["syntax", "code"] -->
 
 # 教学安排
 
