@@ -3,8 +3,8 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "理论力学B"
-@def website_descr = "理论力学B课程网页"
+@def website_title = "theomech"
+@def website_descr = "theomech"
 @def website_url   = "https://bplcn.github.io/theomech/"
 
 @def author = "Pei-Liang Bian"
