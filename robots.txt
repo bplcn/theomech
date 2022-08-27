@@ -1,0 +1,4 @@
+Sitemap: https://bplcn.github.io/theomech/sitemap.xml
+
+User-agent: *
+Disallow:
