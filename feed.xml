@@ -9,11 +9,11 @@
 
   <channel>
     <title>
-      <![CDATA[  理论力学B  ]]>
+      <![CDATA[  theomech  ]]>
     </title>
     <link> https://bplcn.github.io/theomech/ </link>
     <description>
-      <![CDATA[  理论力学B课程网页  ]]>
+      <![CDATA[  theomech  ]]>
     </description>
     <atom:link
       href="https://bplcn.github.io/theomech/feed.xml"
